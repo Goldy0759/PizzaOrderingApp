@@ -77,7 +77,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/yashfalke77/food-ordering-app
+   git clone https://github.com/Goldy0759/PizzaOrderingApp
    ```
 2. Install NPM packages
    ```sh
